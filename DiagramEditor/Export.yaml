@@ -1,0 +1,33 @@
+---
+items:
+	-
+		-
+			name: "May be.."
+			stereo: 0
+			access: 1
+			attributes: []
+			methods: []
+		- 409
+		- 194
+		- 133
+		- 140
+	-
+		-
+			name: "May be.."
+			stereo: 1
+			access: 1
+			attributes: []
+			methods: []
+		- 717
+		- 357
+		- 200
+		- 150
+joins:
+	-
+		- 0
+		- 2
+		- 0.98926
+		- 1
+		- 1
+		- 0.07
+		- 0
